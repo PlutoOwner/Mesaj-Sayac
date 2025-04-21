@@ -39,7 +39,7 @@ Tüm zamanların mesaj sayıları saklanır ve her zaman erişilebilir.
 <a href="https://t.me/destekgroup"><img src="https://img.shields.io/badge/-Destek%20Grubu-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/PlutoKanal"><img src="https://img.shields.io/badge/-Support%20Kanal-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AnonimYazar"><img src="https://img.shields.io/badge/-İletişim-red.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
